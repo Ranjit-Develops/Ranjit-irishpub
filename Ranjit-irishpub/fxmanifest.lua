@@ -21,3 +21,9 @@ client_script {
     "client/**.lua",
 }
 
+dependencies {
+    'qb-core',
+    'PolyZone',
+    'qb-target',
+    'qb-menu'
+}
